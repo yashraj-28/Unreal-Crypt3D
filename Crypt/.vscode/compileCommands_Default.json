@@ -1,0 +1,74 @@
+[
+	{
+		"file": "C:\\Unreal Projects\\Crypt\\Crypt\\Source\\Crypt\\Crypt.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\Crypt\\Crypt\\.vscode\\compileCommands_Default\\Crypt.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Projects\\Crypt\\Crypt\\Source\\Crypt\\Crypt.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\Crypt\\Crypt\\.vscode\\compileCommands_Default\\Crypt.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Projects\\Crypt\\Crypt\\Source\\Crypt\\Crypt.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\Crypt\\Crypt\\.vscode\\compileCommands_Default\\Crypt.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Projects\\Crypt\\Crypt\\Source\\Crypt\\Grabber.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\Crypt\\Crypt\\.vscode\\compileCommands_Default\\Crypt.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Projects\\Crypt\\Crypt\\Source\\Crypt\\Grabber.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\Crypt\\Crypt\\.vscode\\compileCommands_Default\\Crypt.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Projects\\Crypt\\Crypt\\Source\\Crypt\\MoverActorComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\Crypt\\Crypt\\.vscode\\compileCommands_Default\\Crypt.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Projects\\Crypt\\Crypt\\Source\\Crypt\\MoverActorComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\Crypt\\Crypt\\.vscode\\compileCommands_Default\\Crypt.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Projects\\Crypt\\Crypt\\Source\\Crypt\\TriggerComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\Crypt\\Crypt\\.vscode\\compileCommands_Default\\Crypt.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Projects\\Crypt\\Crypt\\Source\\Crypt\\TriggerComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\Crypt\\Crypt\\.vscode\\compileCommands_Default\\Crypt.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
